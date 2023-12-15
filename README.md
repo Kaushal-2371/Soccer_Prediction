@@ -1,5 +1,5 @@
 # Soccer_Prediction
-Soccer prediction model for Premier League Series only
+Soccer prediction model for Premier League Series
 
 soccer_prediction.ipynb -     The actual File for soccer prediction model.
 
